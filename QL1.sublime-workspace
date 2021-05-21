@@ -1,0 +1,239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ep",
+				"epsilon"
+			],
+			[
+				"discrete",
+				"discrete_state"
+			],
+			[
+				"action",
+				"action_space"
+			],
+			[
+				"Bl",
+				"Blended"
+			],
+			[
+				"bitwise",
+				"bitwise_and"
+			],
+			[
+				"cam",
+				"cam"
+			],
+			[
+				"cvLogo",
+				"cv2LogoGray"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/asb46/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/asb46/AppData/Roaming/Sublime Text 3/Packages/User/python3Set.sublime-build",
+		"/C/Users/asb46/Desktop/comp python/prac.py",
+		"/C/Users/asb46/Desktop/opencv/threshold-mask.py",
+		"/C/Users/asb46/Desktop/opencv/ca.py",
+		"/C/Users/asb46/Desktop/opencv/ROI.py",
+		"/C/Users/asb46/Desktop/opencv/opencv2.py",
+		"/C/Users/asb46/Desktop/opencv/prac.py",
+		"/C/Users/asb46/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/asb46/Desktop/solidity/MyContract.sol",
+		"/C/Users/asb46/Desktop/starter_kit-master/starter_kit-master/migrations/2_deploy_contract.js",
+		"/C/Users/asb46/Desktop/starter_kit-master/starter_kit-master/src/contracts/EthSwap.sol",
+		"/C/Users/asb46/Desktop/starter_kit-master/starter_kit-master/src/contracts/Token.sol",
+		"/C/Users/asb46/Desktop/starter_kit-master/starter_kit-master/src/components/App.css",
+		"/C/Users/asb46/Desktop/starter_kit-master/starter_kit-master/migrations/1_initial_migration.js",
+		"/C/Users/asb46/Desktop/starter_kit-master/starter_kit-master/package.json",
+		"/C/Users/asb46/Desktop/starter_kit-master/starter_kit-master/package-lock.json",
+		"/C/Users/asb46/Desktop/djangoproject/mysite/main/views.py",
+		"/C/Users/asb46/Desktop/djangoproject/mysite/main/urls.py",
+		"/C/Users/asb46/Desktop/djangoproject/mysite/mysite/urls.py",
+		"/C/Users/asb46/Desktop/djangoproject/asf.py",
+		"/C/Users/asb46/Desktop/djangoproject/mysite/main/tests.py",
+		"/C/Users/asb46/Desktop/New folder/asf.py",
+		"/C/Users/asb46/AppData/Roaming/Sublime Text 3/Packages/User/python3.6.sublime_build.sublime-setting.sublime-build",
+		"/C/Users/asb46/Desktop/New folder/hello.py",
+		"/C/Users/asb46/Desktop/New folder/NN_t1.py",
+		"/C/Users/asb46/AppData/Roaming/Sublime Text 3/Packages/User/python3.sublime_build.sublime-build",
+		"/C/Users/asb46/Desktop/New folder/NN_t1",
+		"/C/Users/asb46/Desktop/New folder/sdf.py",
+		"/C/Users/asb46/Desktop/New folder/Neural_network_tt1.py",
+		"/C/Users/asb46/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "QL1.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
